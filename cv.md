@@ -11,7 +11,7 @@
 
 ## Briefly About Myself
 
-I am 38 years old, I work as a department head in the Department of Internal Affairs of the administration of the Partizansky district of Minsk.I have no experience in programming, but I am striving for employment as a frontend developer. At the moment I am finishing IIT BGUIR (web designer, programmer). Purposeful, sociable, executive, punctual, easy to work in a team, not afraid to take responsibility. I am easy to learn, I have a great desire to develop in web development.
+Active, with a sense of humor, purposeful, executive, I can work in a team, get along well with people, resolve conflict situations, be attentive to details, I can listen, analyze information and clearly express my thoughts. Ready to learn and develop in the IT field.
 
 ## Skills and Proficiency
 
@@ -20,6 +20,7 @@ I am 38 years old, I work as a department head in the Department of Internal Aff
 * Git, GitHub
 * SQL, Python
 * VS Code, Node.js
+* PHP, Laravel
 * Adobe Photoshop, Illustrator, 3-D Max, Figma.
 
 ## Code example
@@ -38,13 +39,12 @@ function explode(input) {
 
 ## Education
 
-* Academy of the Ministry of Internal Affairs of the Republic of Belarus, faculty of Law, lawyer, 2018
 * Belarusian State University of Informatics and Radioelectronics, web-designer, programmer
 * HTML and CSS on the code-basics.com (completed)
 * SQL, Python on the stepik.org (in progress)
 
 ## Languages
 
-* English - A2
+* English - 
 * Russian - Native
 * Belarusian – Intermediate
