@@ -5,7 +5,7 @@
 ## My Contact Info
 
 * Phone: +375 29 698-23-61
-* E-mail: belocnejka52@gmail.com
+* E-mail: <belocnejka52@gmail.com>
 * GitHub: @Fox0810
 * Telegram: @OlgaKaralkina
 
@@ -40,11 +40,11 @@ function explode(input) {
 ## Education
 
 * Belarusian State University of Informatics and Radioelectronics, web-designer, programmer
-* HTML and CSS on the code-basics.com (completed)
-* SQL, Python on the stepik.org (in progress)
+* HTML and CSS on the code-basics.com
+* SQL, Python on the stepik.org
 
 ## Languages
 
-* English - 
+* English - A2
 * Russian - Native
 * Belarusian – Intermediate
